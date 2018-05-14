@@ -1,5 +1,5 @@
 function theBeatlesPlay(musicians, instruments) {
   const newArray = [];
   
-  for {let i = 0, 
+  for {let i = 0, 1 = musicians.length, i++) 
 }
